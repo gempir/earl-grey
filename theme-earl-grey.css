@@ -827,3 +827,6 @@ img[src$="/img/matrix.svg"] {
   border-bottom: none !important;
 }
 
+.monaco-editor .view-lines {
+	filter: invert(1) !important;
+}
